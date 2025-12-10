@@ -10,3 +10,32 @@ body {
     background: linear-gradient(DeepSkyBlue, LightSkyBlue, AliceBlue);
      height: 60%;
 }
+
+
+
+#sun {
+    font-size: 70px;
+    position: absolute;
+    top: 0px;
+    left: 10px;
+}
+
+#tree {
+    font-size: 150px;
+    position: absolute;
+    top: 300px;
+    left: 10px;
+}
+
+#cactus {
+    font-size: 130px;
+    position: absolute;
+    top: 330px;
+    left: 300px;
+}
+#casino {
+    font-size: 100px;
+    position: absolute;
+    top: 350px;
+    left: 500px;
+}
